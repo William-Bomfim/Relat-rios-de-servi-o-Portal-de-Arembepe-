@@ -5,7 +5,7 @@
 </head>
 <body>
   <h2>Relatório Semanal</h2>
-  <form action="mailto:seuemail@exemplo.com" method="POST" enctype="text/plain">
+  <form action="mailto: jorgebomfim16@gmail.com" method="POST" enctype="text/plain">
     <label>Nome:</label><br>
     <input type="text" name="nome" required><br><br>
 
